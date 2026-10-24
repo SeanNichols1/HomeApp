@@ -22,7 +22,6 @@ struct ContentView: View {
             Spacer()
             Text("Click to enter Frigate")
                 .font(.subheadline)
-            
         }
         .padding()
     }
